@@ -1,1 +1,1 @@
-docker run -it --rm -v C:/Users/Senthilkumar.L/Documents/qualcom/snpe-docker/snpe-1.53.2:/snpe jungin500/snpe:1.5x
+docker run -it --rm -v C:\Users\ADMIN\Documents\GitHub\snpe-docker\snpe-1.53.2:/snpe jungin500/snpe:1.5x
